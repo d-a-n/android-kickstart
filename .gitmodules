@@ -1,0 +1,9 @@
+[submodule "vendor/ActionBarSherlock"]
+	path = vendor/ActionBarSherlock
+	url = https://github.com/JakeWharton/ActionBarSherlock.git
+[submodule "vendor/ViewPagerIndicator"]
+	path = vendor/ViewPagerIndicator
+	url = https://github.com/JakeWharton/Android-ViewPagerIndicator.git
+[submodule "vendor/SlidingMenu"]
+	path = vendor/SlidingMenu
+	url = https://github.com/jfeinstein10/SlidingMenu.git
