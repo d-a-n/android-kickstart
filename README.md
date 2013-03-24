@@ -1,4 +1,4 @@
-#Android Bootstrap Project
+#Android Bootstrap Project [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=dans&url=https://github.com/d-a-n/android-kickstart&title=android-kickstart&language=&tags=github&category=software) 
 
 Android app template with **ActionBarSherlock**, **ViewPagerIndicator** and **SlidingMenu** integration to get you started.
 
@@ -13,8 +13,17 @@ Android app template with **ActionBarSherlock**, **ViewPagerIndicator** and **Sl
 git clone https://github.com/d-a-n/android-kickstart.git
 ```
 
-2. setup the external libraries
+2. import the project
 
+3. setup the external libraries
+```
+right click on the project > preferences > Android
+```
+<center>
+<img src="https://raw.github.com/d-a-n/android-kickstart/assets/screen4.png" width="70%">
+</center>
+
+4. clean all and build
 
 
 ## Obstacles
@@ -25,9 +34,6 @@ Jar mismatch! Fix your dependencies
 If you are getting this error, please make sure that you are using the same android-support-v4.jar in the all the external libraries (in the libs directory).
 
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=dans&url=https://github.com/d-a-n/android-kickstart&title=android-kickstart&language=&tags=github&category=software) 
-
-
 ##Screenshots
 
 <table>
@@ -35,4 +41,9 @@ If you are getting this error, please make sure that you are using the same andr
 <td><img src="https://raw.github.com/d-a-n/android-kickstart/assets/screen2.png" width="100%"></td>
 <td><img src="https://raw.github.com/d-a-n/android-kickstart/assets/screen3.png" width="100%"></td>
 </table>
+
+## Other Bootstrap projects
+- http://androidkickstartr.com
+- http://www.androidbootstrap.com
+- http://jgilfelt.github.com/android-actionbarstylegenerator/ (Theme generator)
 
