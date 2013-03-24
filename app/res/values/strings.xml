@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Kickstart</string>
+    <string name="ab_title">Android Kickstart</string>
+    <string name="ab_subtitle">Kickstart your app...</string>
+    <string name="refresh">Refresh</string>
+</resources>
