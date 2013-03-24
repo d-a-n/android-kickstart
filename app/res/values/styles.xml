@@ -2,7 +2,7 @@
 
 <resources>
 
-    <style name="Theme.Androidbootstrap" parent="@style/Theme.Sherlock.Light">
+    <style name="Theme.AndroidKickstart" parent="@style/Theme.Sherlock.Light">
         <item name="actionBarItemBackground">@drawable/selectable_background_androidbootstrap</item>
         <item name="popupMenuStyle">@style/PopupMenu.Androidbootstrap</item>
         <item name="dropDownListViewStyle">@style/DropDownListView.Androidbootstrap</item>
