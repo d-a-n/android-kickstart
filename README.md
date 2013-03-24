@@ -1,4 +1,4 @@
-#android-kickstart 
+#Android Bootstrap Project
 
 Android app template with **ActionBarSherlock**, **ViewPagerIndicator** and **SlidingMenu** integration to get you started.
 
